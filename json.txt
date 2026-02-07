@@ -1,9 +1,9 @@
 {
   "settings": {
     "admin_url": "http://localhost:3000",
-    "info_url": "",
-    "info_msg": "",
-    "key_validity": ""
+    "info_url": "https://niteshpanels.in/",
+    "info_msg": "how to get key ",
+    "key_validity": "24h"
   },
   "shortener": {
     "base_url": "https://earnreverse.fun/api",
@@ -12,13 +12,13 @@
     "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
   "ui_text": {
-    "dialog_title": "",
-    "dialog_subtitle": "",
-    "btn_get_key": "",
-    "btn_login": "",
-    "btn_admin": "",
-    "btn_update": "",
-    "input_hint": ""
+    "dialog_title": "NITESH ",
+    "dialog_subtitle": "FGDCJYH",
+    "btn_get_key": "GET ",
+    "btn_login": "lOG",
+    "btn_admin": "ADMIN",
+    "btn_update": "UPDA",
+    "input_hint": "GHDC"
   },
   "theme": {
     "accent_color": "",
@@ -26,8 +26,8 @@
     "btn_stroke_color": ""
   },
   "time_settings": {
-    "api_url": "",
-    "timezone": ""
+    "api_url": "http://worldtimeapi.org/api/timezone/",
+    "timezone": "Asia/Kolkata"
   },
   "update_system": {
     "force_update_date": "",
