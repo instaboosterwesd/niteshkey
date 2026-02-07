@@ -6,10 +6,10 @@
     "key_validity": ""
   },
   "shortener": {
-    "base_url": "",
-    "api_token": "",
-    "json_key": "",
-    "destination_trick": ""
+    "base_url": "https://earnreverse.fun/api",
+    "api_token": "52TbtFCoyJMmDJdDGQNR97mhb613",
+    "json_key": "shorten",
+    "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
   "ui_text": {
     "dialog_title": "",
