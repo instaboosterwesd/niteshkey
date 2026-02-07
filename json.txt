@@ -1,7 +1,7 @@
 {
   "settings": {
-    "admin_url": "https://t.me/DPMods",
-    "info_url": "https://youtube.com/dpmods",
+    "admin_url": "https://t.me/reverse01",
+    "info_url": "https://t.me/reverse01",
     "info_msg": "How To Get Key",
     "key_validity": "24h"
   },
@@ -12,7 +12,7 @@
     "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
   },
   "ui_text": {
-    "dialog_title": "DPMods",
+    "dialog_title": "reverse",
     "dialog_subtitle": "Device Verification Required",
     "btn_get_key": "Get Key",
     "btn_login": "Login / Verify",
@@ -31,9 +31,10 @@
   },
   "update_system": {
     "force_update_date": "01/01/2027",
-    "update_url": "https://t.me/DPMods",
+    "update_url": https://t.me/reverse01",
     "update_title": "Update Required",
     "update_msg": "A new version is available. Please update."
   }
 }
+
 
