@@ -1,0 +1,4 @@
+{
+  "LockApp": true,
+  "Link": "https://t.me/dp_mods"
+}
